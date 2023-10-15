@@ -25,7 +25,7 @@ const AboutPage = () => {
           <Image src={dedeard} alt={ABOUT_PAGE.body.image.alt} className="block w-full" placeholder="blur" />
         </div>
         <div className="md:flex-1 md:pl-6">
-          <h2 className="mb-2 text-xl font-bold">I’m Dede Ardiansya</h2>
+          <h2 className="mb-2 text-xl font-bold">I’m Waldi Febriandaß</h2>
           <div className="mb-6">
             <p className="mb-1">
             I’m Waldi Febrianda, Associate Product Manager based in Jakarta, Indonesia.<br />I try my best to make the code I write easy to read and understand.
