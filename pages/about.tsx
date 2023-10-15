@@ -28,20 +28,20 @@ const AboutPage = () => {
           <h2 className="mb-2 text-xl font-bold">I’m Dede Ardiansya</h2>
           <div className="mb-6">
             <p className="mb-1">
-              Full Stack Web Developer based in Makassar, Indonesia. <br />I try my best to make the code I write easy to read and understand.
+            I’m Waldi Febrianda, Associate Product Manager based in Jakarta, Indonesia.<br />I try my best to make the code I write easy to read and understand.
             </p>
           </div>
-          <h2 className="mb-2 text-xl font-bold">Saya Dede Ardiansya</h2>
+          <h2 className="mb-2 text-xl font-bold">Saya Waldi Febrianda</h2>
           <div className="mb-6">
             <p className="mb-1">
-              Full Stack Web Developer berbasis di Makassar, Indonesia.
+            I’m Waldi Febrianda, Associate Product Manager based in Jakarta, Indonesia.
               <br />
               Saya mencoba yang terbaik untuk membuat kode yang saya tulis mudah untuk dibaca dan dipahami.
             </p>
           </div>
           <h2 className="mb-2 text-xl font-bold">Tech i love</h2>
           <div className="mb-6">
-            <p className="mb-1">TypeScript, Express.js, Laravel, Tailwind, Bootstrap, Vue and React.</p>
+            <p className="mb-1">Jira Developer.</p>
           </div>
           {ABOUT_PAGE.body.resume_url && (
             <a
