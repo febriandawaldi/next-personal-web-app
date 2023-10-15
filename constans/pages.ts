@@ -1,14 +1,14 @@
 export const HOME_PAGE = {
   path: '/',
-  title: 'Dede Ariansya',
-  description: 'I’m Dede Ariansya, Full Stack Web Developer based in Makassar, Indonesia.',
+  title: 'Waldi Febrianda',
+  description: 'I’m Waldi Febrianda, Associate Product Manager based in Jakarta, Indonesia.',
   h1: '._',
 }
 
 export const ABOUT_PAGE = {
   path: '/about',
-  title: 'About - Dede Ariansya',
-  description: 'I’m Dede Ariansya, Full Stack Web Developer based in Makassar, Indonesia.',
+  title: 'About - Waldi Febrianda',
+  description: 'I’m Waldi Febrianda, Associate Product Manager based in Jakarta, Indonesia.',
   h1: 'About',
   body: {
     resume_url: 'https://drive.google.com/file/d/1ytO7InWLVjJGryqRC0QZdc60bU1iesph/view?usp=sharing',
@@ -21,15 +21,15 @@ export const ABOUT_PAGE = {
 
 export const PROJECTS_PAGE = {
   path: '/projects',
-  title: 'Projects - Dede Ariansya',
-  description: 'I’m Dede Ardiansya, Full Stack Web Developer based in Makassar, Indonesia.',
+  title: 'Projects - Waldi Febrianda',
+  description: 'I’m Waldi Febrianda, Associate Product Manager based in Jakarta, Indonesia.',
   h1: 'Projects',
 }
 
 export const CONTACT_PAGE = {
   path: '/contact',
-  title: 'Contact - Dede Ariansya',
-  description: 'I’m Dede Ardiansya, Full Stack Web Developer based in Makassar, Indonesia.',
+  title: 'Contact - Waldi Febrianda',
+  description: 'I’m Waldi Febrianda, Associate Product Manager based in Jakarta, Indonesia.',
   h1: 'Contact',
   body: {
     formspree_key: 'xoqyaqqe',
