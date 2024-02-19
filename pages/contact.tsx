@@ -26,8 +26,8 @@ const ContactPage = () => {
           <div className="mb-8">
             <h2 className="mb-3 text-lg font-bold">STREET ADDRESS</h2>
             <p className="text-sm leading-5">
-              Kebayoran lama, Jakarta Selatan <br />
-              Jakarta Selatan.
+            Jln. Pasaman 2 no. 157 kel. Surau gadang kec. Nanggalo siteba Rt 03/ Rw 06 <br />
+            Kota Padang, Sumatera Barat 25146
             </p>
           </div>
           <div className="mb-8">
